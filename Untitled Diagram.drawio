@@ -1,1 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T08:29:22.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="lw5GTJatLpUEFhxfuc2k" version="13.6.10" type="github"><diagram id="EgP8t3AZCLIfYlXaYnH6" name="Page-1">1ZZNj5swEIZ/DcdWYJLdzbFNsx9SuntIq2qPDp4FbwyDnCGQ/vqaMCygaBNapVIrcbCfGWPP69cGL5yn1Z2VefIVFRhP+Krywi+eEMFECK9+fLVvyPVs0oDYasVJHVjpn8DQZ1poBdtBIiEa0vkQRphlENGASWuxHKa9oBnOmssYjsAqkuaY/tCKkobeiOuO34OOk3bm4GrWRFLZJnMl20QqLHsoXHjh3CJS00qrOZhavFaXZtztO9G3hVnIaMyAx+fX+afbBy0eq+T7M36zarn5EDZv2UlTcMG8WNq3CoBygnAXLSUYYybNoqOfLRaZgnoa3/W6nCVi7mDg4CsQ7Xl3ZUHoUEKp4ehxKVzdFgsbwYn1t5aQNgY6kcdl1bX0JmCh7gBTILt3CRaMJL0bbr5kD8VveZ3MrsFK/4bqwXnVy0QTrHJ5qL50Z2uomNzmjdtfdFUr/76EO7AE1cmiOSp8diof1Rl3y57vGSU9y7fs4ipN/3NvipHenPxT3hTnVXc3WV43M6Ra4jNWXctoEx+24akgozNgrqTdPLlRmmq/+R/96WVsHF4NbXwzzsaB/7d8PBmvaFSsxyjaeHq5/iOJe1Ac6EmXj9d9ev76CMRl7g/X7b6bh1jv7yNc/AI=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-14T08:58:12.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="o6fd84Zs7iyubsotU9PD" version="13.6.10" type="github">
+  <diagram id="EgP8t3AZCLIfYlXaYnH6" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qib1fdqTG6OMEXKOSP_k-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qib1fdqTG6OMEXKOSP_k-14" target="Qib1fdqTG6OMEXKOSP_k-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qib1fdqTG6OMEXKOSP_k-25" value="Vivado&lt;br&gt;Export" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qib1fdqTG6OMEXKOSP_k-24">
+          <mxGeometry x="0.2419" y="3" relative="1" as="geometry">
+            <mxPoint x="-15.5" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qib1fdqTG6OMEXKOSP_k-14" value="top_coproc_wrapper.vhd" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="246" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Qib1fdqTG6OMEXKOSP_k-15" value="eVA_Design_axi.vhd" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="336" y="180" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Qib1fdqTG6OMEXKOSP_k-16" value="eVA_Design&lt;br&gt;&quot;Black Box&quot;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="386" y="210" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Qib1fdqTG6OMEXKOSP_k-22" value="NL, XDC" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="180" width="60" height="85" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

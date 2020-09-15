@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T14:45:41.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" version="13.6.10" etag="qrthm4lUs_JEFXcItzCz" type="github"><diagram id="-sbmgu2jgz5nmA5034ow">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-15T14:51:54.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="ya7iRytYW6V-931WSz1r" version="13.6.10" type="github">
+  <diagram id="-sbmgu2jgz5nmA5034ow" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MwAuJwv-gQawmCz7Euk0-6" value="File / Save" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MwAuJwv-gQawmCz7Euk0-1" target="MwAuJwv-gQawmCz7Euk0-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwAuJwv-gQawmCz7Euk0-13" value="Build / Generate Plugin" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MwAuJwv-gQawmCz7Euk0-1" target="MwAuJwv-gQawmCz7Euk0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MwAuJwv-gQawmCz7Euk0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=53;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MwAuJwv-gQawmCz7Euk0-1" target="MwAuJwv-gQawmCz7Euk0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MwAuJwv-gQawmCz7Euk0-16" value="Build / Generate VHDL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MwAuJwv-gQawmCz7Euk0-15">
+          <mxGeometry x="0.171" y="-18" relative="1" as="geometry">
+            <mxPoint x="18" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwAuJwv-gQawmCz7Euk0-1" value="eVA Designer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MwAuJwv-gQawmCz7Euk0-4" value="File / Open" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MwAuJwv-gQawmCz7Euk0-2" target="MwAuJwv-gQawmCz7Euk0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MwAuJwv-gQawmCz7Euk0-2" value="existing XML" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MwAuJwv-gQawmCz7Euk0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="MwAuJwv-gQawmCz7Euk0-5" target="MwAuJwv-gQawmCz7Euk0-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwAuJwv-gQawmCz7Euk0-11" value="File / Open" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MwAuJwv-gQawmCz7Euk0-10">
+          <mxGeometry x="-0.6615" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwAuJwv-gQawmCz7Euk0-5" value="adapted XML" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MwAuJwv-gQawmCz7Euk0-12" value="Installer EXE" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MwAuJwv-gQawmCz7Euk0-14" value="VHDL Simulation" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
